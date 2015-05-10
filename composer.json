@@ -1,0 +1,23 @@
+{
+  "name": "utils",
+  "version": "0.1.0",
+  "description": "My utils in PHP",
+  "keywords": [
+    "utils", "php"
+  ],
+  "homepage": "https://github.com/nclong87/utils",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Nguyen Chi Long",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "composer/installers": "*"
+  },
+  "support": {
+    "issues": "https://github.com/nclong87/utils/issues",
+    "source": "https://github.com/nclong87/utils"
+  }
+}
