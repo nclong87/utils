@@ -1,6 +1,6 @@
 {
-  "name": "utils/commons",
-  "version": "0.1.1",
+  "name": "longnc/commons",
+  "version": "0.1.0",
   "description": "My utils in PHP",
   "keywords": [
     "utils", "php"
