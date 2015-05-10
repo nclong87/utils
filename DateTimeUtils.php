@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace commons;
+namespace longnc\commons;
 
 use Closure;
 use DateTime;
